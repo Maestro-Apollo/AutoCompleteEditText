@@ -14,6 +14,10 @@
         android:completionThreshold="1"
         android:completionHint="Country"
         android:id="@+id/actv"/>
+<Button
+    android:layout_width="wrap_content"
+    android:layout_height="wrap_content"
+    android:text="Click"/>
     <TextView
         android:layout_width="match_parent"
         android:layout_height="wrap_content"
